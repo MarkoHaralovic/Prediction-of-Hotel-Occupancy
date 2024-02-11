@@ -1,0 +1,25 @@
+1. Proširiti dataset:
+      - vremenska prognoza za Portugal
+      - praznici za Portugal i ostale najzastupljenije nacije 
+         (Velika Britanija, Francuska,Španjolska,
+          Njemačka, Italija, Irska, Belgija)
+      - cijena goriva i slične izvedenice
+
+2. Pogledati statističke i modele dubokog učenja
+   - razmisliti o hibridnim modelima, ensemble learning
+   a) plitki modeli : linearna regresija, SVM, Random Forest, AdaBoost, GradientBoosting, XGBoost, Voting, Bagging, Bootstrap
+   b) duboki modeli : LSTM , BiLSTM, CNN + LSTM, DNN, RNN
+
+3. Pogledati ostale metrike računanja greške
+   - MAPE eksplodira ako je stvarna vrijednost nula, možemo koristiti RMSE, MSE, i sl
+
+4. Razmisliti kako zamijeniti/modelirati nule u datasetu
+      - treba li se to tretirati kao greška?
+      - kako bismo uopće mogli ne krivo predvidjeti da model ne radi neki mjesec ukoliko je to anomalija
+      - kako izvesti TSA (time series analysis) ukoliko imamo takav prekid u datasetu
+
+5. Trenutna skripta koristi ARIMA (Autoregressive integrated moving average) za predviđanje na tjednoj razini
+      - dodati na mjesečnoj i dnevnoj razini predviđanja (problem nedovoljno velikog dataseta za predviđanje na mjesečnoj razini?)
+
+6. Razmisliti treba li nam predvianje hoće li gost otkazati rezervaciju 
+   - kao dodatan feature 
