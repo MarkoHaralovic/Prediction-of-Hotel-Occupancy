@@ -23,3 +23,5 @@
 
 6. Razmisliti treba li nam predvianje hoće li gost otkazati rezervaciju 
    - kao dodatan feature 
+
+7. Anomaly detection model
