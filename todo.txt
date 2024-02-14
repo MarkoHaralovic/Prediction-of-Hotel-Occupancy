@@ -7,7 +7,7 @@
 
 2. Pogledati statističke i modele dubokog učenja
    - razmisliti o hibridnim modelima, ensemble learning
-   a) plitki modeli : linearna regresija, SVM, Random Forest, AdaBoost, GradientBoosting, XGBoost, Voting, Bagging, Bootstrap
+   a) statistički modeli (ar,arima,sarima itd)
    b) duboki modeli : LSTM , BiLSTM, CNN + LSTM, DNN, RNN
 
 3. Pogledati ostale metrike računanja greške
@@ -25,3 +25,5 @@
    - kao dodatan feature 
 
 7. Anomaly detection model
+
+8. Jedan ili više modela
