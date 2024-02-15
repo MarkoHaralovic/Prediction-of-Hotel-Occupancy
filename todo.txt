@@ -24,6 +24,7 @@
 6. Razmisliti treba li nam predvianje hoće li gost otkazati rezervaciju 
    - kao dodatan feature 
 
-7. Anomaly detection model
+7. Anomaly detection model - STL decomposition, isolation forests, ARIMA, fbprophet, 
+   (ili Microsoftov Spectral Residual with DNN model)
 
 8. Jedan ili više modela
