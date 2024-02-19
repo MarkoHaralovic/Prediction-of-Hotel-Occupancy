@@ -2,8 +2,13 @@
 LUMEN Data Science 2024
 
 
-Place yourself in prediction-of-hotel-occupancy subfolder and run 
-   - env/Scripts/activate.bat   //if using CMD
-   - env/Scripts/Activate.ps1 // if using powershell
+Place yourself in prediction-of-hotel-occupancy subfolder by running:
+   cd prediction-of-hotel-occupancy
 
-to activate virtualenv with all the libraries needed to run this project. 
+- create virtual envirnoment using command: 
+   python-m venv <any_name_you_wish_for_env>
+- run either of these commands to activate virtualenv 
+   - <any_name_you_wish_for_env>/Scripts/activate.bat   //if using CMD
+   - <any_name_you_wish_for_env>/Scripts/Activate.ps1 // if using powershell
+- install dependencies by running command:
+   pip install -r requirements.txt
