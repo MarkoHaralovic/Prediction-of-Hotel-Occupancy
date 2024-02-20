@@ -18,13 +18,16 @@
       - kako bismo uopće mogli ne krivo predvidjeti da model ne radi neki mjesec ukoliko je to anomalija
       - kako izvesti TSA (time series analysis) ukoliko imamo takav prekid u datasetu
 
-5. Trenutna skripta koristi ARIMA (Autoregressive integrated moving average) za predviđanje na tjednoj razini
-      - dodati na mjesečnoj i dnevnoj razini predviđanja (problem nedovoljno velikog dataseta za predviđanje na mjesečnoj razini?)
-
-6. Razmisliti treba li nam predvianje hoće li gost otkazati rezervaciju 
+5. Razmisliti treba li nam predvianje hoće li gost otkazati rezervaciju 
    - kao dodatan feature 
 
-7. Anomaly detection model - STL decomposition, isolation forests, ARIMA, fbprophet, 
+6. Anomaly detection model - STL decomposition, fbprophet
    (ili Microsoftov Spectral Residual with DNN model)
 
-8. Jedan ili više modela
+7. fbprophet za predviđanje pozražnje - ima i mogućnost modeliranja praznika, specijalnih događaja i slično
+   (zanimljiva rasprava https://news.ycombinator.com/item?id=27695574 + toolkit za time series analysis od FB-a https://facebookresearch.github.io/Kats/)
+   
+
+8.Detekcija anomalija   
+   - https://towardsdatascience.com/deepant-unsupervised-anomaly-detection-for-time-series-97c5308546ea
+     (https://github.com/bmonikraj/medium-ds-unsupervised-anomaly-detection-deepant-lstmae)
