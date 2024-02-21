@@ -1,0 +1,9 @@
+11.veljače 2024
+ARIMA na tjednoj razini za oba hotela predviđa s greškama od 0.239303 te 0.494428 MAPE.
+
+UZ UVJET: da se za hotel 0 izbace tjedni u kojima nije niti jedan gost došao 
+(ukoliko računamo MAPE, ispadne beskonačan zbog djeljenja s nulom, a kada modificirano da je umjesto 0 gostiju došao jedan, kao 
+način da izbjegnemo takvu eksploziju, osim što radimo na manjem datasetu, MAPE poraste na 88)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
