@@ -1,0 +1,2 @@
+1. https://github.com/PacktPublishing/Practical-Guide-to-Applied-Conformal-Prediction
+2. https://otexts.com/fpp2/decomposition.html
