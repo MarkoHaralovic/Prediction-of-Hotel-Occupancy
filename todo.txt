@@ -1,8 +1,4 @@
 1. Proširiti dataset:
-      - vremenska prognoza za Portugal
-      - praznici za Portugal i ostale najzastupljenije nacije 
-         (Velika Britanija, Francuska,Španjolska,
-          Njemačka, Italija, Irska, Belgija)
       - cijena goriva i slične izvedenice
 
 2. Pogledati statističke i modele dubokog učenja
@@ -10,24 +6,9 @@
    a) statistički modeli (ar,arima,sarima itd)
    b) duboki modeli : LSTM , BiLSTM, CNN + LSTM, DNN, RNN
 
-3. Pogledati ostale metrike računanja greške
-   - MAPE eksplodira ako je stvarna vrijednost nula, možemo koristiti RMSE, MSE, i sl
-
-4. Razmisliti kako zamijeniti/modelirati nule u datasetu
-      - treba li se to tretirati kao greška?
-      - kako bismo uopće mogli ne krivo predvidjeti da model ne radi neki mjesec ukoliko je to anomalija
-      - kako izvesti TSA (time series analysis) ukoliko imamo takav prekid u datasetu
-
-5. Razmisliti treba li nam predvianje hoće li gost otkazati rezervaciju 
-   - kao dodatan feature 
-
-6. Anomaly detection model - STL decomposition, fbprophet
-   (ili Microsoftov Spectral Residual with DNN model)
-
-7. fbprophet za predviđanje pozražnje - ima i mogućnost modeliranja praznika, specijalnih događaja i slično
+3.  fbprophet za predviđanje pozražnje - ima i mogućnost modeliranja praznika, specijalnih događaja i slično
    (zanimljiva rasprava https://news.ycombinator.com/item?id=27695574 + toolkit za time series analysis od FB-a https://facebookresearch.github.io/Kats/)
-   
 
-8.Detekcija anomalija   
-   - https://towardsdatascience.com/deepant-unsupervised-anomaly-detection-for-time-series-97c5308546ea
-     (https://github.com/bmonikraj/medium-ds-unsupervised-anomaly-detection-deepant-lstmae)
+
+4.. Razmisliti treba li nam predvianje hoće li gost otkazati rezervaciju 
+   - kao dodatan feature 
