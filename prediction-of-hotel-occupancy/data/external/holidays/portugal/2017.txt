@@ -1,0 +1,45 @@
+Date,Day,Name,Type,Details
+1 Jan,Sunday,New Year's Day,National holiday,
+14 Feb,Tuesday,Valentine's Day,Observance,
+28 Feb,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday,
+19 Mar,Sunday,St. Joseph's Day,District Holiday,Santarém
+19 Mar,Sunday,Fathers' Day,Observance,
+20 Mar,Monday,March Equinox,Season,
+26 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,
+14 Apr,Friday,Good Friday,National holiday,
+16 Apr,Sunday,Easter Sunday,National holiday,
+25 Apr,Tuesday,Liberty Day,National holiday,
+1 May,Monday,Labor Day / May Day,National holiday,
+2 May,Tuesday,Our Lady of Mércoles,District Holiday,Castelo Branco
+7 May,Sunday,Mothers' Day,Observance,
+12 May,Friday,St. Joana's Day,District Holiday,Aveiro
+12 May,Friday,Papal Visit,Observance,
+22 May,Monday,Leiria Day,District Holiday,Leiria
+23 May,Tuesday,Portalegre Day,District Holiday,Portalegre
+25 May,Thursday,Ascension Day,District Holiday,Beja
+5 Jun,Monday,Azores Day,Regional Holiday,Azores
+10 Jun,Saturday,Portugal Day,National holiday,
+13 Jun,Tuesday,St. Anthony's Day,District Holiday,Lisbon, Vila Real
+15 Jun,Thursday,Corpus Christi,National holiday,
+21 Jun,Wednesday,June Solstice,Season,
+24 Jun,Saturday,St. John's Day,District Holiday,Braga, Porto
+29 Jun,Thursday,St. Peter's Day,District Holiday,Évora
+1 Jul,Saturday,Madeira Day,Regional Holiday,Madeira
+4 Jul,Tuesday,St. Elizabeth's Day,District Holiday,Coimbra
+15 Aug,Tuesday,Assumption of Mary,National holiday,
+20 Aug,Sunday,Our Lady of Sorrows,District Holiday,Viana do Castelo
+22 Aug,Tuesday,Our Lady of Graces,District Holiday,Bragança
+7 Sep,Thursday,Faro Day,District Holiday,Faro
+15 Sep,Friday,Birth of Bocage,District Holiday,Setúbal
+21 Sep,Thursday,St. Matthew's Day,District Holiday,Viseu
+22 Sep,Friday,September Equinox,Season,
+5 Oct,Thursday,Republic Day,National holiday,
+29 Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,
+1 Nov,Wednesday,All Saints' Day,National holiday,
+27 Nov,Monday,Foral of Sancho I,District Holiday,Guarda
+1 Dec,Friday,Restoration of Independence,National holiday,
+8 Dec,Friday,Feast of the Immaculate Conception,National holiday,
+21 Dec,Thursday,December Solstice,Season,
+24 Dec,Sunday,Christmas Eve,Observance,
+25 Dec,Monday,Christmas Day,National holiday,
+31 Dec,Sunday,New Year's Eve,Observance,

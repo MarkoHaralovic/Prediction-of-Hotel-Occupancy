@@ -1,0 +1,34 @@
+Date,Name,Type,Details
+1 Jan,Friday,New Year's Day,National holiday,
+8 Feb,Monday,Shrove Monday,Observance,
+9 Feb,Tuesday,Carnival Tuesday,Observance,
+10 Feb,Wednesday,Carnival / Ash Wednesday,Silent Day,
+14 Feb,Sunday,Valentine's Day,Observance,
+8 Mar,Tuesday,International Women's Day,Observance,
+20 Mar,Sunday,Palm Sunday,Observance, Christian,
+24 Mar,Thursday,Maundy Thursday,Silent Day,BY, HE, NRW, RLP, SL
+24 Mar,Thursday,Maundy Thursday,Observance, Christian,All except BY, HE, NRW, RLP, SL
+25 Mar,Friday,Good Friday,National holiday, Christian,
+26 Mar,Saturday,Holy Saturday,Silent Day,BY, HE, NDS, RLP, SL
+27 Mar,Sunday,Easter Sunday,Observance, Christian,All except BB
+28 Mar,Monday,Easter Monday,National holiday, Christian,
+1 May,Sunday,May Day,National holiday,
+5 May,Thursday,Fathers' Day,Observance,
+5 May,Thursday,Ascension Day,National holiday, Christian,
+8 May,Sunday,Mothers' Day,Observance,
+8 May,Sunday,Anniversary of the End of World War II,Observance,B, BB, HB, MVP, TH
+15 May,Sunday,Whit Sunday,Observance, Christian,All except BB
+16 May,Monday,Whit Monday,National holiday, Christian,
+15 Aug,Monday,Assumption of Mary,Observance, Christian,Saxony, Thuringia
+3 Oct,Monday,Day of German Unity,National holiday,
+31 Oct,Monday,Halloween,Observance,
+11 Nov,Friday,St. Martin's Day,Observance, Christian,
+13 Nov,Sunday,National Day of Mourning,Silent Day,
+20 Nov,Sunday,Sunday of the Dead,Silent Day,
+27 Nov,Sunday,First Advent Sunday,Observance, Christian,
+4 Dec,Sunday,Second Advent Sunday,Observance, Christian,
+6 Dec,Tuesday,Saint Nicholas Day,Observance, Christian,
+11 Dec,Sunday,Third Advent Sunday,Observance, Christian,
+18 Dec,Sunday,Fourth Advent Sunday,Observance, Christian,
+25 Dec,Sunday,Christmas Day,National holiday, Christian,
+26 Dec,Monday,Boxing Day,National holiday, Christian

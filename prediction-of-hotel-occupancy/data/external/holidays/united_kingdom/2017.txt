@@ -1,0 +1,23 @@
+Date,Name,Type,Details
+1 Jan,Sunday,New Year's Day,Bank Holiday,
+2 Jan,Monday,New Year's Day observed,Bank Holiday,
+5 Jan,Thursday,Twelfth Night,Observance, Christian,
+14 Feb,Tuesday,Valentine's Day,Observance,
+28 Feb,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Observance, Christian,
+26 Mar,Sunday,Mother's Day,Observance,
+14 Apr,Friday,Good Friday,Bank Holiday,
+16 Apr,Sunday,Easter Sunday,Observance, Christian,
+17 Apr,Monday,Easter Monday,Common Local Holiday,ENG, NIR, WAL
+1 May,Monday,Early May Bank Holiday,Bank Holiday,
+29 May,Monday,Spring Bank Holiday,Bank Holiday,
+10 Jun,Saturday,Queen Elizabeth II's Birthday,Observance,
+18 Jun,Sunday,Father's Day,Observance,
+7 Aug,Monday,Summer Bank Holiday,Common Local Holiday,Scotland
+28 Aug,Monday,Summer Bank Holiday,Common Local Holiday,ENG, NIR, WAL
+31 Oct,Tuesday,Halloween,Observance,
+5 Nov,Sunday,Guy Fawkes Day,Observance,
+12 Nov,Sunday,Remembrance Sunday,Observance,
+24 Dec,Sunday,Christmas Eve,Observance, Christian,
+25 Dec,Monday,Christmas Day,Bank Holiday,
+26 Dec,Tuesday,Boxing Day,Bank Holiday,
+31 Dec,Sunday,New Year's Eve,Observance

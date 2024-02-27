@@ -1,0 +1,28 @@
+Date,Name,Type
+1 Jan,Thursday,New Year's Day,National holiday
+6 Jan,Tuesday,Epiphany,National holiday
+18 Feb,Wednesday,Ash Wednesday,Observance
+19 Mar,Thursday,Father's Day,Observance
+20 Mar,Friday,March Equinox,Season
+3 Apr,Friday,Good Friday,Observance
+5 Apr,Sunday,Easter Sunday,National holiday
+6 Apr,Monday,Easter Monday,National holiday
+25 Apr,Saturday,Liberation Day,National holiday
+25 Apr,Saturday,The Feast of St Mark (Venice),Local holiday
+1 May,Friday,Labor Day / May Day,National holiday
+10 May,Sunday,Mother's Day,Observance
+2 Jun,Tuesday,Republic Day,National holiday
+21 Jun,Sunday,June Solstice,Season
+24 Jun,Wednesday,The Feast of St. John (Florence, Genoa, Turin),Local holiday
+29 Jun,Monday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15 Aug,Saturday,Assumption of Mary,National holiday
+15 Aug,Saturday,Ferragosto,Observance
+19 Sep,Saturday,The Feast of Saint Januarius (Naples),Local holiday
+23 Sep,Wednesday,September Equinox,Season
+1 Nov,Sunday,All Saints' Day,National holiday
+7 Dec,Monday,The Feast of St. Ambrose (Milan),Local holiday
+8 Dec,Tuesday,Feast of the Immaculate Conception,National holiday
+22 Dec,Tuesday,December Solstice,Season
+25 Dec,Friday,Christmas Day,National holiday
+26 Dec,Saturday,St. Stephen's Day,National holiday
+31 Dec,Thursday,New Year's Eve,Observance

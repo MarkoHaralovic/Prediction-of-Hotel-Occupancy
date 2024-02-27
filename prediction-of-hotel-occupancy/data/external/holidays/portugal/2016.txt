@@ -1,0 +1,44 @@
+Date,Day,Name,Type,Details
+1 Jan,Friday,New Year's Day,National holiday,
+9 Feb,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday,
+14 Feb,Sunday,Valentine's Day,Observance,
+19 Mar,Saturday,St. Joseph's Day,District Holiday,Santarém
+19 Mar,Saturday,Fathers' Day,Observance,
+20 Mar,Sunday,March Equinox,Season,
+25 Mar,Friday,Good Friday,National holiday,
+27 Mar,Sunday,Easter Sunday,National holiday,
+27 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,
+12 Apr,Tuesday,Our Lady of Mércoles,District Holiday,Castelo Branco
+25 Apr,Monday,Liberty Day,National holiday,
+1 May,Sunday,Labor Day / May Day,National holiday,
+1 May,Sunday,Mothers' Day,Observance,
+5 May,Thursday,Ascension Day,District Holiday,Beja
+12 May,Thursday,St. Joana's Day,District Holiday,Aveiro
+16 May,Monday,Azores Day,Regional Holiday,Azores
+22 May,Sunday,Leiria Day,District Holiday,Leiria
+23 May,Monday,Portalegre Day,District Holiday,Portalegre
+26 May,Thursday,Corpus Christi,National holiday,
+10 Jun,Friday,Portugal Day,National holiday,
+13 Jun,Monday,St. Anthony's Day,District Holiday,Lisbon, Vila Real
+20 Jun,Monday,June Solstice,Season,
+24 Jun,Friday,St. John's Day,District Holiday,Braga, Porto
+29 Jun,Wednesday,St. Peter's Day,District Holiday,Évora
+1 Jul,Friday,Madeira Day,Regional Holiday,Madeira
+4 Jul,Monday,St. Elizabeth's Day,District Holiday,Coimbra
+15 Aug,Monday,Assumption of Mary,National holiday,
+20 Aug,Saturday,Our Lady of Sorrows,District Holiday,Viana do Castelo
+22 Aug,Monday,Our Lady of Graces,District Holiday,Bragança
+7 Sep,Wednesday,Faro Day,District Holiday,Faro
+15 Sep,Thursday,Birth of Bocage,District Holiday,Setúbal
+21 Sep,Wednesday,St. Matthew's Day,District Holiday,Viseu
+22 Sep,Thursday,September Equinox,Season,
+5 Oct,Wednesday,Republic Day,National holiday,
+30 Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,
+1 Nov,Tuesday,All Saints' Day,National holiday,
+27 Nov,Sunday,Foral of Sancho I,District Holiday,Guarda
+1 Dec,Thursday,Restoration of Independence,National holiday,
+8 Dec,Thursday,Feast of the Immaculate Conception,National holiday,
+21 Dec,Wednesday,December Solstice,Season,
+24 Dec,Saturday,Christmas Eve,Observance,
+25 Dec,Sunday,Christmas Day,National holiday,
+31 Dec,Saturday,New Year's Eve,Observance,

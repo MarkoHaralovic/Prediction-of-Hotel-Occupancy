@@ -1,0 +1,40 @@
+Date,Day,Name,Type,Details
+1 Jan,Thursday,New Year's Day,National holiday,
+14 Feb,Saturday,Valentine's Day,Observance,
+17 Feb,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday,
+19 Mar,Thursday,St. Joseph's Day,District Holiday,Santarém
+19 Mar,Thursday,Fathers' Day,Observance,
+20 Mar,Friday,March Equinox,Season,
+29 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,
+3 Apr,Friday,Good Friday,National holiday,
+5 Apr,Sunday,Easter Sunday,National holiday,
+21 Apr,Tuesday,Our Lady of Mércoles,District Holiday,Castelo Branco
+25 Apr,Saturday,Liberty Day,National holiday,
+1 May,Friday,Labor Day / May Day,National holiday,
+3 May,Sunday,Mothers' Day,Observance,
+12 May,Tuesday,St. Joana's Day,District Holiday,Aveiro
+14 May,Thursday,Ascension Day,District Holiday,Beja
+22 May,Friday,Leiria Day,District Holiday,Leiria
+23 May,Saturday,Portalegre Day,District Holiday,Portalegre
+25 May,Monday,Azores Day,Regional Holiday,Azores
+10 Jun,Wednesday,Portugal Day,National holiday,
+13 Jun,Saturday,St. Anthony's Day,District Holiday,Lisbon, Vila Real
+21 Jun,Sunday,June Solstice,Season,
+24 Jun,Wednesday,St. John's Day,District Holiday,Braga, Porto
+29 Jun,Monday,St. Peter's Day,District Holiday,Évora
+1 Jul,Wednesday,Madeira Day,Regional Holiday,Madeira
+4 Jul,Saturday,St. Elizabeth's Day,District Holiday,Coimbra
+15 Aug,Saturday,Assumption of Mary,National holiday,
+20 Aug,Thursday,Our Lady of Sorrows,District Holiday,Viana do Castelo
+22 Aug,Saturday,Our Lady of Graces,District Holiday,Bragança
+7 Sep,Monday,Faro Day,District Holiday,Faro
+15 Sep,Tuesday,Birth of Bocage,District Holiday,Setúbal
+21 Sep,Monday,St. Matthew's Day,District Holiday,Viseu
+23 Sep,Wednesday,September Equinox,Season,
+25 Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,
+27 Nov,Friday,Foral of Sancho I,District Holiday,Guarda
+8 Dec,Tuesday,Feast of the Immaculate Conception,National holiday,
+22 Dec,Tuesday,December Solstice,Season,
+24 Dec,Thursday,Christmas Eve,Observance,
+25 Dec,Friday,Christmas Day,National holiday,
+31 Dec,Thursday,New Year's Eve,Observance,

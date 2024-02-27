@@ -1,0 +1,26 @@
+Date,Name,Type,Details
+1 Jan,Sunday,New Year's Day,National holiday,
+20 Mar,Monday,March Equinox,Season,
+26 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,
+14 Apr,Friday,Good Friday,Local holiday,Bas-Rhin, Haut-Rhin, Moselle
+16 Apr,Sunday,Easter Sunday,Observance,
+17 Apr,Monday,Easter Monday,National holiday,
+1 May,Monday,Labor Day / May Day,National holiday,
+8 May,Monday,WWII Victory Day,National holiday,
+25 May,Thursday,Ascension Day,National holiday,
+28 May,Sunday,Mother's Day,Observance,
+4 Jun,Sunday,Whit Sunday,Observance,
+5 Jun,Monday,Whit Monday,National holiday,
+18 Jun,Sunday,Father's Day,Observance,
+21 Jun,Wednesday,June Solstice,Season,
+14 Jul,Friday,Bastille Day,National holiday,
+15 Aug,Tuesday,Assumption of Mary,National holiday,
+22 Sep,Friday,September Equinox,Season,
+29 Oct,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time,
+1 Nov,Wednesday,All Saints' Day,National holiday,
+11 Nov,Saturday,Armistice Day,National holiday,
+21 Dec,Thursday,December Solstice,Season,
+24 Dec,Sunday,Christmas Eve,Observance,
+25 Dec,Monday,Christmas Day,National holiday,
+26 Dec,Tuesday,St Stephen's Day,Local holiday,Bas-Rhin, Haut-Rhin, Moselle
+31 Dec,Sunday,New Year's Eve,Observance
