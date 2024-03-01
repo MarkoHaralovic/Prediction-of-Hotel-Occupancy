@@ -1,4 +1,4 @@
-Date,Name,Type,Details
+Date,Day,Name,Type,Details
 1 Jan,Sunday,New Year's Day,National holiday,
 20 Mar,Monday,March Equinox,Season,
 26 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time,

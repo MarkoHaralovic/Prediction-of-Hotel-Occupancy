@@ -1,4 +1,4 @@
-Date,Name,Type,Details
+Date,Day,Name,Type,Details
 1 Jan,Sunday,New Year's Day,Bank Holiday,
 2 Jan,Monday,New Year's Day observed,Bank Holiday,
 5 Jan,Thursday,Twelfth Night,Observance, Christian,

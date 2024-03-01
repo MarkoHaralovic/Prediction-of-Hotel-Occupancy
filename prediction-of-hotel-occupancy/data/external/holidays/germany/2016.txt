@@ -1,4 +1,4 @@
-Date,Name,Type,Details
+Date,Day,Name,Type,Details
 1 Jan,Friday,New Year's Day,National holiday,
 8 Feb,Monday,Shrove Monday,Observance,
 9 Feb,Tuesday,Carnival Tuesday,Observance,

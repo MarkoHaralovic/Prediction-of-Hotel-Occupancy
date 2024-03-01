@@ -1,4 +1,4 @@
-Date,Name,Type,Details
+Date,Day,Name,Type,Details
 1 Jan,Friday,New Year's Day,Bank Holiday,
 5 Jan,Tuesday,Twelfth Night,Observance, Christian,
 9 Feb,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Observance, Christian,

@@ -1,4 +1,4 @@
-Date,Name,Type
+Date,Day,Name,Type
 1 Jan,Friday,New Year's Day,National holiday
 6 Jan,Wednesday,Epiphany,National holiday
 10 Feb,Wednesday,Ash Wednesday,Observance
