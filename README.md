@@ -1,6 +1,7 @@
 # Prediction-of-Hotel-Occupancy
 LUMEN Data Science 2024
 
+[DROPPED] : The conditions of the competition altered,as the dataset was unexpectedly altered, making our code irrelevant and pushing us to quit.
 
 Place yourself in prediction-of-hotel-occupancy subfolder by running:
    cd prediction-of-hotel-occupancy
